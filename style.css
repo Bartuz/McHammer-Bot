@@ -12,4 +12,12 @@ div {
 	margin-left: 150px;
 	display: block;
 }
+#map{
+	text-align: center;
+	background-color: green;
+	margin: 0 auto;
+	height: 500px;
+	width: 500px;
+	position: relative;
+}
 
