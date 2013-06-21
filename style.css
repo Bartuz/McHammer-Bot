@@ -1,0 +1,15 @@
+body{
+	margin: 0px;
+}
+div {
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+	display: inline-block;
+	margin-right: 50px;
+}
+#w{
+	margin-left: 150px;
+	display: block;
+}
+
